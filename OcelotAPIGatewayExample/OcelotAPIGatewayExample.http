@@ -1,0 +1,6 @@
+@OcelotAPIGatewayExample_HostAddress = http://localhost:5096
+
+GET {{OcelotAPIGatewayExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
